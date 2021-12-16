@@ -1,0 +1,11 @@
+{
+  "name": "resto-MiamMiam",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Lynerah/resto-MiamMiam.git",
+  "author": "Lynerah <celinedeboeck@gmail>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
