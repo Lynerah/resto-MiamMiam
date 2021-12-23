@@ -39,6 +39,3 @@ window.addEventListener("DOMContentLoaded", function () {
    displayCard = displayCard.join("");
    cardsContainer.innerHTML = displayCard;
 });
-// for (let arrayCard of arrayCards){
-//    console.log("mon burger" + arrayCard.name );
-// }

@@ -87,7 +87,7 @@ table {
    }
 }
 
-.Heading{
+.heading{
    min-height: 87vh;
 	overflow: hidden;
 	position: relative;
@@ -101,17 +101,17 @@ table {
    align-items: center;
    padding: 2%;
 }
-.Heading-container{
+.heading-container{
    box-sizing: border-box;
 	height: auto;
 	padding: 30px 50px;
 	position: relative;
    display: flex;
 }
-.Heading-container__text{
+.heading-container__text{
    width: 70%;
 }
-.Heading-container__title{
+.heading-container__title{
    font-size: 9vw; 
    font-weight: 500;
    letter-spacing: 1px;
@@ -121,7 +121,7 @@ table {
    width: 85%;
    text-shadow: #140a04 4px 4px;
 }
-.Heading-container__body{
+.heading-container__body{
    font-size: 2.5vw;
    font-weight: bold;
 	letter-spacing: 6px;
@@ -130,18 +130,18 @@ table {
 }
 
 @media screen and (max-width: 768px) {
-   .Heading{
+   .heading{
       min-height: 90vh;
       align-items: baseline;
       margin-top: 64px;
    }
-   .Heading-container__title{
+   .heading-container__title{
       font-size: 12vw;
    }
-   .Heading-container__text{
+   .heading-container__text{
       width: 100%;
    }
-   .Heading-container__body{
+   .heading-container__body{
       font-size: 16px;
       font-weight: normal;
       letter-spacing: 4px;
